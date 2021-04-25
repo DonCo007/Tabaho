@@ -49,7 +49,7 @@
     <div id="print">
         <div class="">
             <span style="float: left;">
-                <b>ETabaho Vapeshop</b><br/>
+                <b>ECigora Vapeshop</b><br/>
                 <i>Electroputere Parc.</i></br>
                 <i>Calea București 80, Craiova 200440.</i>
             </span>
@@ -66,7 +66,7 @@
             <div>
                 <div>
                     <center>
-                        <h1><span style="color: gray;">ETabaho</span> <span style="color:#1abc9c;"> VapeShop</span></h1>
+                        <h1><span style="color: gray;">ECigora</span> <span style="color:#1abc9c;"> VapeShop</span></h1>
                         <br/>
                         <span> <b>Customer Name :</b> <?php echo $_SESSION['dis_name'] ?> </span>
                     </center>

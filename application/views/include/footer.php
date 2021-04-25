@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="footer-about-us">
-                    <h2>ETabaho <span>Vape Shop</span></h2>
+                    <h2>E Cigora <span>Vape Shop</span></h2>
                     <p>Be safe, be vape!</p>
                     <div class="footer-social">
                         <strong>Follow us on :</strong>
@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="copyright">
-                    <p>&copy;  2020-2021 ETabaho. All Rights Reserved. Coded by <a href="https://www.facebook.com/preda9801" target="_blank">Preda Radu</a></p>
+                    <p>&copy;  2019-2020 ECigora. All Rights Reserved. Coded with <i class="fa fa-heart"></i> by <a href="https://www.facebook.com/yungrrrr" target="_blank">Răzvan Roșu</a></p>
                 </div>
             </div>
 

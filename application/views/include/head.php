@@ -11,6 +11,7 @@
                             <?php
                         }
                         ?>
+                        <!--<li><a href="#"><i class="fa fa-heart"></i> Wishlist</a></li>-->
                         <?php
                             if(isset($_SESSION['email'])){
                                 if(!$_SESSION['email'] == ''){
@@ -36,9 +37,15 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="logo">
-                    <h1><a href="<?php echo base_url() ?>index.php/Welcome">ETabaho<span> Vape Shop</span></a></h1>
+                    <h1><a href="<?php echo base_url() ?>index.php/Welcome">ECigora<span> Vape Shop</span></a></h1>
                 </div>
             </div>
+
+<!--            <div class="col-sm-6">
+                <div class="shopping-item">
+                    <a href="cart.php">Cart - <span class="cart-amunt">Rs.800</span> <i class="fa fa-shopping-cart"></i> <span class="product-count">5</span></a>
+                </div>
+            </div>-->
         </div>
     </div>
 </div> <!-- End site branding area -->
@@ -60,6 +67,20 @@
                     <li class=""><a href="<?php echo base_url() ?>index.php/Welcome">Home</a></li>
                     <li><a href="<?php echo base_url() ?>index.php/Welcome/shop">Shop</a></li>
                 </ul>
+                <!--<li><a href="single-product.php">Single product</a></li>
+                <li><a href="cart.php">Cart</a></li>
+                <li><a href="checkout.php">Checkout</a></li>
+                <li><a href="#">Category</a></li>
+                <li><a href="#">Others</a></li>
+                <li><a href="#">Contact</a></li>-->
+                <!--<li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                    <ul class="dropdown-menu " style="list-style-type: none;">
+                        <li><a class="" href="#">Action</a></li>
+                        <li><a href="#">Another action</a></li>
+                        <li><a href="#">Something else here</a></li>
+                    </ul>
+                </li>-->
                 <?php
                 if(isset($_SESSION['email'])) {
                 ?>
@@ -78,6 +99,9 @@
                     }
                     ?>
                 </ul>
+
+
+
             </div>
         </div>
     </div>

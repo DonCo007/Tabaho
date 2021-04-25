@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>ETabaho</title>
+    <title>ECigora</title>
     <link rel="shortcut icon" href="<?php echo base_url()?>assets/img/logo.png" />
 
     <!-- Google Fonts -->
@@ -103,7 +103,7 @@ include "include/head.php";
                                     <div class="col-md-6 col-md-offset-6">
                                         <div class="slide-content">
                                             <h2>Starter Kits</h2>
-                                            <p>Starter kits from incredible brands like SMOK, Suorin, Vaporesso, Voopoo and more, make buying a great vape device easy. They include all the basics you need for a product that just works straight out of the box. Kits contain a mod, tank, coils and replacement parts; or a device and pods. To get vaping, all you need to add is some vape juice and a battery (if it's not built in). As a leading online destination for all things vape, ETabaho partners world’s top vaping brands so that you can find your perfect vape kit. We've got all your needs covered with our range of kits: elegant vape pens, simple pod systems and versatile box mod kits.</p>
+                                            <p>Starter kits from incredible brands like SMOK, Suorin, Vaporesso, Voopoo and more, make buying a great vape device easy. They include all the basics you need for a product that just works straight out of the box. Kits contain a mod, tank, coils and replacement parts; or a device and pods. To get vaping, all you need to add is some vape juice and a battery (if it's not built in). As a leading online destination for all things vape, ECigora partners world’s top vaping brands so that you can find your perfect vape kit. We've got all your needs covered with our range of kits: elegant vape pens, simple pod systems and versatile box mod kits.</p>
                                             <a href="" class="readmore">Learn more</a>
                                         </div>
                                     </div>

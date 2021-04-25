@@ -5,6 +5,13 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="user-menu">
+                    <!--<ul>
+                        <li><a href="<?php /*echo base_url() */?>Welcome/login"><i class="fa fa-user"></i> My Account</a></li>
+                        <li><a href="#"><i class="fa fa-heart"></i> Wishlist</a></li>
+                        <li><a href="<?php /*echo base_url() */?>Welcome/cart"><i class="fa fa-shopping-cart"></i> My Cart</a></li>
+                        <li><a href="<?php /*echo base_url() */?>Welcome/checkout"><i class="fa fa-user"></i> Checkout</a></li>
+
+                    </ul>-->
                 </div>
             </div>
         </div>
@@ -16,7 +23,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="logo">
-                    <h1><a href="<?php echo base_url() ?>index.php/Admin"> ETabaho<span> Vape Shop </span>Admin Panel</a></h1>
+                    <h1><a href="<?php echo base_url() ?>index.php/Admin"> ECigora<span> Vape Shop </span>Admin Panel</a></h1>
                 </div>
             </div>
 
